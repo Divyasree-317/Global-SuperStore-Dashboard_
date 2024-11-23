@@ -1,11 +1,11 @@
 # Overview
 
-"Power Bi project showcasing  for global superstore dataset.This project provide report of sales transactions, shipping trends, and market analysies .It include various visulization helps to stakeholders".
+"Power Bi project showcasing  for global superstore dataset.This project provide report of sales transactions, shipping trends, and market analysis .It include various visualization helps to stakeholders".
 
 ## Table of Contents
 1. [Getting started](#)
 2. [Data Cleaning Steps](#data-cleaning-steps)
-3. [Visulization Segmentation](#)
+3. [Visualization Segmentation](#)
 4. [Sales Visulization](#)
 5. [Tables](#)
 
@@ -20,7 +20,7 @@
 ## Data Cleaning: 
 The dataset basic data cleaning to ensure accuracy and consistency. Cleaning steps include correcting the column headers,removing duplicates ,null values etc.
 
-## Visulization for Analysis:
+## Visualization for Analysis:
 Segment the visuals using country, region, market: 
 Analyze the data by visualizing the percentage of shipping based on ship mode.
 
